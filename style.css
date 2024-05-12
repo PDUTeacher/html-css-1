@@ -1,0 +1,39 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	width:90%;
+	margin: 0px auto;
+}
+h1{
+	text-align:center;
+}
+header img{
+	width: 100px;
+	vertical-align: middle;
+}
+
+.ebb-and-flow img{
+	width:400px;
+	float:right;
+	margin-left:20px;
+	box-shadow: 4px 4px 4px 5px gray;
+}
+.moon-surface img{
+	width:400px;
+	float:left;
+	margin-right:20px;
+	border: 2px solid blue;
+}
+.clerfloat{
+	clear:both;
+}
+footer{
+	background-color: black;
+	padding:30px 50px;
+}
+footer p{
+	color: white;
+	text-align:center;
+}
